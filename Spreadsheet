@@ -1,3 +1,4 @@
+/POST /webhook
 message.channel.send({embed: {
     color: 3447003,
     author: {
